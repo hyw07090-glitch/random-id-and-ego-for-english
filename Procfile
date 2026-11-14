@@ -1,1 +1,1 @@
-worker: python random id and ego.py
+worker: python idandego.py
